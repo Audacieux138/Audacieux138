@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Pentester+Web">
     <h3 align="center">Love Pentesting Web</h3>
     <h3 align="center">I'm French Pentester</h3>
 </p>

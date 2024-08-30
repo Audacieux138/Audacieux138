@@ -12,7 +12,7 @@
 <!-- Social network -->
 <p style="margin-top: 50px;">
     <p align="left">
-        <a href="https://tryhackme.com/p/winpeas" target="blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fcyber-crime-or-threats%2F120%2Fhacker_cyber_crime-256.png&f=1&nofb=1&ipt=749b5d3a3d8f32c85725efb5f7fd713c0a922cae05d2c7620c38afdbbbe8dc78&ipo=images" alt="code__oz" /></a>
+        <a href="https://tryhackme.com/p/winpeas" target="blank"><img src="" alt="code__oz" /></a>
 
 
 

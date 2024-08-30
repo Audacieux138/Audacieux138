@@ -12,7 +12,7 @@
 <!-- Social network -->
 <p style="margin-top: 50px;">
     <p align="left">
-        <a href="https://tryhackme.com/p/winpeas" target="blank"><img src="" alt="code__oz" /></a>
+        <a href="https://tryhackme.com/p/winpeas" target="blank"><img src="" alt="Mon TryhackME" /></a>
 
 
 

@@ -21,15 +21,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/Audacieux138" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="TonNomDutilisateur"/>
-  </a>
-  <a href="https://tryhackme.com/p/winpeas" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TonProfilTryHackMe"/>
-  </a>
-</p>
-
-<!-- Added TryHackMe badge -->
-<p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/winpeas.png" alt="TryHackMe Badge"/>
 </p>

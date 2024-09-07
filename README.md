@@ -19,7 +19,4 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <script src="https://tryhackme.com/badge/3023478"></script>
-</p>
+

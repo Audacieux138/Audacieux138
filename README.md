@@ -21,5 +21,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/winpeas.png" alt="TryHackMe Badge"/>
+  <img src=" <script src="https://tryhackme.com/badge/3023478"></script>" alt="TryHackMe Badge"/>
 </p>
